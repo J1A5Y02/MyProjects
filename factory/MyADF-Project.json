@@ -1,0 +1,9 @@
+{
+	"name": "MyADF-Project",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72cabb65-a521-4952-b5ef-034a71ff138a",
+		"tenantId": "d8d71972-0a1f-4d9e-bff4-d490b46933e7"
+	}
+}
